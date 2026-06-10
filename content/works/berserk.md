@@ -1,6 +1,7 @@
 ---
 title_en: Berserk
 title_ja: ベルセルク
+featured: true
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 野心が人を喰う夜に。守りたかったものと、上り詰めたい衝動が、同じ人間の中で殺し合う話。剣戟の派手さの下に、ずっと喪失とトラウマが流れている。
 status: published
