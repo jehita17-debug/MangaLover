@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-meta: "How to get in touch with MangaLover_H."
+meta: "How to get in touch with MangaLover."
 ---
 
 For questions, corrections, recommendations, or business and affiliate inquiries, use the form below. Messages go straight to my inbox — no email address is shown on the page.
@@ -9,7 +9,7 @@ If you are reporting a factual error in a review, please name the title and what
 
 <form id="contact-form" class="contact-form" action="https://api.web3forms.com/submit" method="POST">
 <input type="hidden" name="access_key" value="708c6139-4925-48fe-abd3-7b1bfbf4e0a5">
-<input type="hidden" name="from_name" value="MangaLover_H contact form">
+<input type="hidden" name="from_name" value="MangaLover contact form">
 <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
 <div class="cf-field"><label for="cf-name">Name</label><input id="cf-name" type="text" name="name" required></div>
 <div class="cf-field"><label for="cf-email">Email</label><input id="cf-email" type="email" name="email" required></div>

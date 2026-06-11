@@ -1,11 +1,11 @@
 ---
 title: "About & Operator Information"
-meta: "Who runs MangaLover_H and what this site is for."
+meta: "Who runs MangaLover and what this site is for."
 ---
 
-**MangaLover_H** is a one-person, independently run site that curates dark, psychological, and introspective Japanese manga for English-speaking readers. Every title featured here is read, chosen, and written up by a single curator — there are no paid placements and no algorithmic "you might also like" filler.
+**MangaLover** is a one-person, independently run site that curates the best Japanese manga for English-speaking readers — from sports and fantasy to romance, comedy, and quiet drama. Every title featured here is read, chosen, and written up by a single curator — there are no paid placements and no algorithmic "you might also like" filler.
 
-The goal is simple: if you are in the mood for a specific kind of unease — slow-burn dread, morally grey characters, quiet seinen that sits with you for days — this site points you to the manga worth your night, and tells you honestly what reading it feels like.
+The goal is simple: tell me the mood you're in tonight — a roaring underdog match, a gentle slow-burn crush, a fantasy to get lost in — and this site points you to the manga worth your time, and tells you honestly what reading it feels like.
 
 ### Editorial policy
 
@@ -17,6 +17,6 @@ This site participates in affiliate programs through ValueCommerce. Some outboun
 
 ### Operator
 
-- **Site name:** MangaLover_H
-- **Operator:** MangaLover_H
+- **Site name:** MangaLover
+- **Operator:** MangaLover
 - **Contact:** see the [Contact](contact.html) page

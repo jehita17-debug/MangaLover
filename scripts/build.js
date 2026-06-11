@@ -140,8 +140,8 @@ function renderIndex(entries) {
     WORK_LIST: list,
   });
   return page({
-    pageTitle: `${cfg.SITE_NAME} ${DASH} dark, psychological Japanese manga, curated`,
-    meta: "A one-person curation of dark, psychological, introspective Japanese manga for English readers. I won't lead you wrong.",
+    pageTitle: `${cfg.SITE_NAME} ${DASH} the best Japanese manga, curated`,
+    meta: "A one-person curation of the best Japanese manga for English readers — sports, fantasy, romance, and quiet drama. I won't lead you wrong.",
     canonical: cfg.SITE_URL,
     ogType: "website",
     root,
@@ -175,7 +175,7 @@ function renderTagPages(entries) {
     });
     const html = page({
       pageTitle: `${name} manga ${DASH} ${cfg.SITE_NAME}`,
-      meta: `Dark, psychological Japanese manga for the mood: ${name}.`,
+      meta: `Japanese manga worth your time, picked for the mood: ${name}.`,
       canonical: `${cfg.SITE_URL}/tag/${slug}.html`,
       root,
       bodyHtml: body,

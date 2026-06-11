@@ -1,6 +1,6 @@
-# MangaLover_H — 受け皿サイト
+# MangaLover — 受け皿サイト
 
-Renta! アフィリエイト購入導線。X(MangaLover_H)で気になった人がその場で買える場所。
+Renta! アフィリエイト購入導線。X(MangaLover)で気になった人がその場で買える場所。
 ダーク／心理／鬱・introspective 系の seinen を、英語圏読者向けに**一人のキュレーター人格**でレビューする。
 tsumitate-navi と同型の「GitHub Actions + Claude API 自動更新」構成。
 

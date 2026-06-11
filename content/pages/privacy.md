@@ -1,9 +1,9 @@
 ---
 title: "Privacy Policy"
-meta: "How MangaLover_H handles data, cookies, and affiliate links."
+meta: "How MangaLover handles data, cookies, and affiliate links."
 ---
 
-This Privacy Policy explains how **MangaLover_H** ("we", "this site") handles information when you visit. By using the site, you agree to the practices described here.
+This Privacy Policy explains how **MangaLover** ("we", "this site") handles information when you visit. By using the site, you agree to the practices described here.
 
 ### Information we collect
 
