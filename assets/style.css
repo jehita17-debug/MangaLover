@@ -1,15 +1,15 @@
-/* MangaLover — quiet, literary, dark. The design should feel like a midnight
-   bookshelf, not a content farm. Restraint over decoration. */
+/* MangaLover — quiet, literary, light. The design should feel like a warm
+   daytime bookshelf, not a content farm. Restraint over decoration. */
 
 :root {
-  --bg: #0f1012;
-  --bg-soft: #16181c;
-  --ink: #e8e6e1;
-  --ink-dim: #a7a39b;
-  --ink-faint: #6f6b64;
-  --line: #2a2c31;
-  --accent: #c9a25a;        /* aged-gold; used sparingly */
-  --accent-soft: #6a5a35;
+  --bg: #faf8f3;            /* warm off-white */
+  --bg-soft: #f1ece1;       /* soft cream for cards */
+  --ink: #1f2020;           /* near-black, warm */
+  --ink-dim: #54504a;       /* secondary text */
+  --ink-faint: #837d72;     /* faint labels / ja titles */
+  --line: #e4ddcf;          /* warm light hairline */
+  --accent: #9a6a12;        /* deep bronze-gold; readable on light */
+  --accent-soft: #cdb277;   /* soft gold for borders / hover */
   --renta: #d8623b;         /* CTA only */
   --max: 720px;
   --font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Georgia", serif;
