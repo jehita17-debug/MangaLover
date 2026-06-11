@@ -4,7 +4,7 @@ title_ja: ベルセルク
 featured: true
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 野心が人を喰う夜に。守りたかったものと、上り詰めたい衝動が、同じ人間の中で殺し合う話。剣戟の派手さの下に、ずっと喪失とトラウマが流れている。
-status: published
+status: hold
 notes: 三浦建太郎／白泉社・ヤングアニマル。ダークファンタジーの金字塔、累計5000万部超。著者逝去(2021)後はスタジオ我画＋森恒二監修で継続中。英語圏の認知度は最高クラス。
 genre_tags:
   - Dark fantasy
@@ -33,4 +33,4 @@ Skip it if extreme violence or sexual brutality is something you cannot read pas
 
 <!--SPOILER-->
 The Eclipse is the hinge the whole series turns on, and what makes it unbearable is not the slaughter but the choice that precedes it: a friend deciding, with full understanding, that everyone who loves him is an acceptable price for what he wants to become. Everything before it reads differently once you know, and everything after is the long, grinding work of a survivor learning that revenge is not the same thing as healing — and may be its opposite.
-<!--/SPOILER-->
+<

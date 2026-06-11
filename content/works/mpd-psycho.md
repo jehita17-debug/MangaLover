@@ -3,7 +3,7 @@ title_en: MPD Psycho
 title_ja: 多重人格探偵サイコ
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 自分という人格が一枚岩じゃない気がして眠れない夜に読む。グロと陰謀の奥で「自己とは何か」を問う話。
-status: published
+status: hold
 notes: ''
 genre_tags:
   - Crime / Mystery

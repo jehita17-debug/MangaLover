@@ -3,7 +3,7 @@ title_en: Dorohedoro
 title_ja: ドロヘドロ
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 世界が薄汚れていて、それでも妙に居心地がいい場所に逃げ込みたい夜に読む。暴力と優しさが同じ顔をしている話。
-status: published
+status: hold
 notes: ''
 genre_tags:
   - Dark fantasy

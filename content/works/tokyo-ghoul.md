@@ -3,7 +3,7 @@ title_en: Tokyo Ghoul
 title_ja: 東京喰種トーキョーグール
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: どちら側にも完全には属せない、と感じる夜に読む。捕食する側とされる側の境界で人間性が削れていく話。
-status: published
+status: hold
 notes: ''
 genre_tags:
   - Dark fantasy

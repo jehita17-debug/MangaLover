@@ -3,7 +3,7 @@ title_en: Welcome Back, Alice
 title_ja: おかえりアリス
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 自分が何者なのか、性別も欲望も含めて足元が崩れる感覚を覗きたい夜に読む。気持ち悪さと美しさが同時に来る。
-status: published
+status: hold
 notes: ''
 genre_tags:
   - Psychological

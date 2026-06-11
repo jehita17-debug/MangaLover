@@ -3,7 +3,7 @@ title_en: Franken Fran
 title_ja: フランケン・ふらん
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 「願いが叶う」ことが一番怖い、と感じる夜に読む。善意でできた地獄を一話完結で見せられる話。
-status: published
+status: hold
 notes: ''
 genre_tags:
   - Dark fantasy

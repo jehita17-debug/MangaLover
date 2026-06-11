@@ -3,7 +3,7 @@ title_en: Happiness
 title_ja: ハピネス
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 思春期そのものが呪いみたいに感じられた頃を思い出す夜に読む。孤独が文字通り牙を持つ話。
-status: published
+status: hold
 notes: ''
 genre_tags:
   - Slow-burn dread

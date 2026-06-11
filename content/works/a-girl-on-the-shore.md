@@ -3,7 +3,7 @@ title_en: A Girl on the Shore
 title_ja: うみべの女の子
 renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
 mood_note: 十代の頃の、誰にも言えなかった関係を思い出す夜に読む。優しさと自己破壊が見分けられなくなる感じ。
-status: published
+status: hold
 notes: ''
 genre_tags:
   - Coming-of-age dread
